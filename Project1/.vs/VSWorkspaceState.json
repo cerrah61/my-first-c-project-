@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\fibonaci"
   ],
-  "SelectedNode": "\\Project1.sln",
+  "SelectedNode": "\\fibonaci",
   "PreviewInSolutionExplorer": false
 }

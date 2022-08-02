@@ -16,5 +16,4 @@ int main() {
 		cout << "sayi gecersiz.";
 	}
 	return 0;
-
 }
